@@ -1,5 +1,7 @@
 # chasen-number-input
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasenlehara/chasen-number-input.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/chasenlehara/chasen-number-input.png?branch=master)](https://travis-ci.org/chasenlehara/chasen-number-input)
 
 
