@@ -1,1 +1,6 @@
-!dist/
+/node_modules/
+/test
+/.jshintrc
+/.npmignore
+/.travis.yml
+/testem.json
