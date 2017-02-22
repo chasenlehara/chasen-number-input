@@ -37,9 +37,6 @@
       "cssify"
     ]
   },
-  "files": [
-    "dist"
-  ],
   "keywords": [],
   "system": {
     "main": "chasen-number-input",
