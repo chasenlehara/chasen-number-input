@@ -57,9 +57,9 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "can": "^2.3.16",
+    "can": "^3.0.0",
     "cssify": "^0.6.0",
-    "jquery": "~2.2.1"
+    "jquery": "~3.4.0"
   },
   "devDependencies": {
     "documentjs": "^0.4.2",
